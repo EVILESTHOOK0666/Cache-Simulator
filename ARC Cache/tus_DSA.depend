@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521651144 source:c:\turboc3\projects\tus_dsa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
